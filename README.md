@@ -1,1 +1,1 @@
-# spring-common-validation
+# dominatus-models-lib
